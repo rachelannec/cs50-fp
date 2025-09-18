@@ -1,0 +1,104 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+:root {
+  --metrophopic: 'Metrophobic', sans-serif;
+  --payton: 'Payton One', sans-serif;
+  --manrope: 'Manrope', sans-serif;
+
+  --header-color: #D9D9D9;
+  --second-color: #EEEEEE;
+  --front-color: #A7A7A7;
+  --back-color: #4E4E4E;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title-header {
+  text-align: center;
+}
+
+.upload-section, .create-manually-btn{
+  width: 250px;
+  border: 1px solid #000;
+  padding: 20px;
+  border-radius: 10px;
+}
+/* 
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header{
+  background-color: var(--header-color);
+}
+
+.title-header {
+  font-family: 'Paytone One', monospace;
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.title-header img {
+  height: 91px;
+  width: auto;
+}
+
+
+
+.hero{
+  height: 90vh;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing {
+  font-family: var(--metrophopic);
+  color: #000;
+}
+
+.landing h1 {
+  font-size: 5rem;
+}
+
+.landing p{
+  font-size: 2rem;
+}
+
+.upload .manual{
+  width: 468px;
+  height: 182px;
+  flex-shrink: 0;
+  background-color: var(--second-color);
+  border-radius: 50px;
+  border: 1px dashed #000;
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.25);
+  color: #000;
+}
+
+.manual{
+  padding: 0 60px;
+  color: #000;
+  text-align: center;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000;
+  font-family: Manrope;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+} */
