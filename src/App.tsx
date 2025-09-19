@@ -80,9 +80,10 @@ function App() {
         <div className="title-header">
           {/* <img src={logo} alt="logo"/> */}
           <h1>flashcardmkr</h1>
+          <p>Your AI-Powered Flashcard Generator</p>
+          <p>Upload a PDF to create flashcards instantly!</p>
         </div>
-        <p>Your AI-Powered Flashcard Generator</p>
-        <p>Upload a PDF to create flashcards instantly!</p>
+        
       </header>
 
       <main>
@@ -119,7 +120,7 @@ function App() {
             <div className="flashcard-section">
               <div className="flashcard">
                 <div className="card-content">
-                  <h4>Question:</h4>
+                  <h4>Question {currentCard + 1}:</h4>
                   <p>{currentFilteredCard?.question}</p>
 
                   {showAnswers && (
