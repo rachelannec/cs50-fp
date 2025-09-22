@@ -154,6 +154,10 @@ function App() {
           </div>
         )}
       </main>
+
+      <footer className="app-footer">
+        <h6>AI can make mistakes. Please check for accuracy</h6>
+      </footer>
     </div>
 
     

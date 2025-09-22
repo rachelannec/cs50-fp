@@ -48,6 +48,17 @@ main {
   overflow-y: auto;
   text-align: left;
 }
+
+.app-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #333;
+  text-align: center;
+  z-index: 1000;
+}
+
 /* 
 .App {
   min-height: 100vh;
