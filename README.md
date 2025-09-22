@@ -3,7 +3,7 @@
 #### Description:
 FLASHCARDMkr is a web application that generates a flashcard for your active recall when you upload a PDF.
 
-### **HERE** -> [https://make-flashcard.vercel.app/](https://make-flashcard.vercel.app/)
+### **HERE** -> [https://flashcardmkr-cs50-fp.vercel.app/](https://flashcardmkr-cs50-fp.vercel.app/)
 
 #### How to Use
 1. **Visit  the app**
